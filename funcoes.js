@@ -102,8 +102,6 @@ function inserir() {
 
 }
 
-
-
 var array = obterMensagens();
 var tableBody = document.getElementById("table-body");
 
